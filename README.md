@@ -4,7 +4,7 @@
 📊 **Shiny App for Predicting Shelter Outcomes Using Machine Learning**  
 
 ## **Overview**
-This **Shiny app** predicts the likely outcome of animals at the **Long Beach Animal Shelter** using **seven years of historical intake and outcome data** from the [Tidy Tuesday Project](https://github.com/rfordatascience/tidytuesday). It employs **multinomial logistic regression** to analyze intake trends and provide predictions.
+This **Machine Learning app** predicts the likely outcome of animals at the **Long Beach Animal Shelter** using **seven years of historical intake and outcome data** from the [Tidy Tuesday Project](https://github.com/rfordatascience/tidytuesday). It employs **multinomial logistic regression** to analyze intake trends and provide predictions.
 
 ## **Features**
 - **Machine Learning Prediction:** Uses historical intake data to predict whether an animal will be **adopted, transferred, returned to owner, or euthanized**.
