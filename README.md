@@ -1,5 +1,4 @@
 # **Long Beach Animal Shelter Outcome Prediction App** / LBSO
-Long Beach Animal Shelter Machine Learning App
 ---
 
 📊 **Shiny App for Predicting Shelter Outcomes Using Machine Learning**  
