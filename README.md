@@ -64,7 +64,7 @@ shiny::runApp("app.R")
 This project is licensed under the **MIT License**. See the `LICENSE` file for details.
 
 ## **Contributing**
-We welcome contributions! If you'd like to add new features, improve performance, or refine the model:
-it is currently deployed on [shinyapp.io](https://148ab9f2967742b28e161684cd552d30.app.posit.cloud/)
+- We welcome contributions! If you'd like to add new features, improve performance, or refine the model:
+- it is currently deployed on [shinyapp.io](https://148ab9f2967742b28e161684cd552d30.app.posit.cloud/)
 ---
 
